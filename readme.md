@@ -1,15 +1,3 @@
-<p align="center">
-    <img width="90" src="./assets/IconMariQa.png">
-    <h1 >GUIA DO TESTADOR INTERGALÁCTICO </h1>
-</p>
-
-<p align="center">
-<img 
-    src="./assets/firtsNerdGaaxy.png"
-    width="300"  
-/>
-</p>
-
 # Projeto Artigo com auxilio de IA
 
 Projeto com o objetivo de auxiliar no meu artigo para o LinkedIn, casando os conhecimentos na área de qualidade com as ferramentas de IA e seus prompts.
